@@ -1,0 +1,509 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tvp.1.pl" tvg-name="TVP 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL132TVP1FHD.png" group-title="Rozrywka",TVP 1
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33400
+#EXTINF:-1 tvg-id="tvp.2.pl" tvg-name="TVP 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL133TVP2FHD.png" group-title="Rozrywka",TVP 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33399
+#EXTINF:-1 tvg-id="tvp.3.pl" tvg-name="TVP 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL134TVP3HD.png" group-title="Rozrywka",TVP 3
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33398
+#EXTINF:-1 tvg-id="polsat.pl" tvg-name="Polsat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL092PolsatFHD.png" group-title="Rozrywka",Polsat
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33440
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="TVN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL129TVNFHD.png" group-title="Rozrywka",TVN
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33403
+#EXTINF:-1 tvg-id="tvn.7.pl" tvg-name="TVN 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL126TVN7FHD.png" group-title="Rozrywka",TVN 7
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33406
+#EXTINF:-1 tvg-id="ttv.pl" tvg-name="TTV" tvg-logo="https://internetowa.tv/img/logo/ttv.png" group-title="Rozrywka",TTV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33411
+#EXTINF:-1 tvg-id="polsat.2.pl" tvg-name="POLSAT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL089POLSAT2FHD.png" group-title="Rozrywka",POLSAT 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33443
+#EXTINF:-1 tvg-id="polsat.play.pl" tvg-name="Polsat Play" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL097PolsatPlayFHD.png" group-title="Rozrywka",Polsat Play
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33435
+#EXTINF:-1 tvg-id="tvn.turbo.pl" tvg-name="TVN Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/TVN_Turbo_HD_logo.jpg" group-title="Rozrywka",TVN Turbo
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33401
+#EXTINF:-1 tvg-id="polsat.cafe.pl" tvg-name="Polsat Cafe" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL059PolsatCafe.png" group-title="Rozrywka",Polsat Cafe
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33473
+#EXTINF:-1 tvg-id="tvn.style.pl" tvg-name="TVN Style" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL130TVNStyleFHD.png" group-title="Rozrywka",TVN Style
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33402
+#EXTINF:-1 tvg-id="tv.puls.pl" tvg-name="TV Puls" tvg-logo="http://picon.webhop.net/logo/POLONIA/TVPULS.png" group-title="Rozrywka",TV Puls
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33408
+#EXTINF:-1 tvg-id="puls.2.pl" tvg-name="PULS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL109PULS2.png" group-title="Rozrywka",PULS 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33423
+#EXTINF:-1 tvg-id="kino.polska.muzyka.pl" tvg-name="TV 4" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/ptv4.png?1" group-title="Rozrywka",TV 4
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33348
+#EXTINF:-1 tvg-id="tv.6.pl" tvg-name="TV6" tvg-logo="http://picon.webhop.net/logo/POLONIA/TV6.png" group-title="Rozrywka",TV6
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33409
+#EXTINF:-1 tvg-id="vox.music.pl" tvg-name="TVP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL082TVPHD.png" group-title="Rozrywka",TVP
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33450
+#EXTINF:-1 tvg-id="tvp.rozrywka.pl" tvg-name="TVP ROZRYWKA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL140TVPROZRYWKA.png" group-title="Rozrywka",TVP ROZRYWKA
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33392
+
+#EXTINF:-1 tvg-id="fox.pl" tvg-name="FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL179FOXHD.png" group-title="Film",FOX
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33353
+#EXTINF:-1 tvg-id="fox.pl" tvg-name="FOX" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/fxhd.png?1" group-title="Film",FOX
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33474
+#EXTINF:-1 tvg-id="fox.comedy.pl" tvg-name="FOX Comedy" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/foxl.png?1" group-title="Film",FOX Comedy
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33475
+#EXTINF:-1 tvg-id="comedy.central.pl" tvg-name="Comedy Central" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL027ComedyCentralFHD.png" group-title="Film",Comedy Central
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33505
+#EXTINF:-1 tvg-id="comedy.central.family.pl" tvg-name="Comedy Central Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL164ComedyCentralFamily.png" group-title="Film",Comedy Central Family
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33368
+#EXTINF:-1 tvg-id="tvn.fabula.pl" tvg-name="TVN Fabula" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL128TVNFabulaFHD.png" group-title="Film",TVN Fabula
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33404
+#EXTINF:-1 tvg-id="polsat.cafe.pl" tvg-name="Polsat Film" tvg-logo="http://picon.webhop.net/logo/POLONIA/POLSATFILM.png" group-title="Film",Polsat Film
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33442
+#EXTINF:-1 tvg-id="super.polsat.pl" tvg-name="SUPER POLSAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL115SUPERPOLSAT.png" group-title="Film",SUPER POLSAT
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33417
+#EXTINF:-1 tvg-id="hbo.pl" tvg-name="HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL064HBOHD.png" group-title="Film",HBO
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33468
+#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL062HBO2FHD.png" group-title="Film",HBO 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33470
+#EXTINF:-1 tvg-id="hbo3.pl" tvg-name="HBO 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL063HBO3FHD.png" group-title="Film",HBO 3
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33469
+#EXTINF:-1 tvg-id="canal+.pl" tvg-name="CANAL+ 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL016CANALFHD.png" group-title="Film",CANAL+ 1
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33516
+#EXTINF:-1 tvg-id="canal+.film.pl" tvg-name="CANAL+ FILM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL017CANALFILMFHD.png" group-title="Film",CANAL+ FILM
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33515
+#EXTINF:-1 tvg-id="canal+.seriale.pl" tvg-name="Canal+ Seriale" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/cnps.png?1" group-title="Film",Canal+ Seriale
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33514
+#EXTINF:-1 tvg-id="canal+.family.pl" tvg-name="CANAL+ FAMILY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL015CANALFAMILYFHD.png" group-title="Film",CANAL+ FAMILY
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33517
+#EXTINF:-1 tvg-id="canal+.pl" tvg-name="Canal+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL104Canal+HD.png" group-title="Film",Canal+
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33428
+#EXTINF:-1 tvg-id="cinemax.pl" tvg-name="CINEMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL026CINEMAXHD.png" group-title="Film",CINEMAX
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33506
+#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="CINEMAX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL025CINEMAX2HD.png" group-title="Film",CINEMAX 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33507
+#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="Cinemax 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL163Cinemax2HD.png" group-title="Film",Cinemax 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33369
+#EXTINF:-1 tvg-id="filmbox.action.pl" tvg-name="FILMBOX ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL051FILMBOXACTIONHD.png" group-title="Film",FILMBOX ACTION
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33481
+#EXTINF:-1 tvg-id="filmbox.arthouse.pl" tvg-name="Filmbox Arthouse" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL052FilmboxArthouse.png" group-title="Film",Filmbox Arthouse
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33480
+#EXTINF:-1 tvg-id="filmbox.arthouse.pl" tvg-name="Filmbox Arthouse" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL177FilmboxArthouse.png" group-title="Film",Filmbox Arthouse
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33355
+#EXTINF:-1 tvg-id="filmbox.extra.pl" tvg-name="Filmbox Extra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL053FilmboxExtraFHD.png" group-title="Film",Filmbox Extra
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33479
+#EXTINF:-1 tvg-id="filmbox.family.pl" tvg-name="FILMBOX FAMILY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL054FILMBOXFAMILYFHD.png" group-title="Film",FILMBOX FAMILY
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33478
+#EXTINF:-1 tvg-id="filmbox.premium.pl" tvg-name="FILMBOX PREMIUM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL055FILMBOXPREMIUMHD.png" group-title="Film",FILMBOX PREMIUM
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33477
+#EXTINF:-1 tvg-id="ale.kino+.pl" tvg-name="AleKino +" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL002AleKinoFHD.png" group-title="Film",AleKino+
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33530
+#EXTINF:-1 tvg-id="axn.pl" tvg-name="AXN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL007AXNHD.png" group-title="Film",AXN
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33525
+#EXTINF:-1 tvg-id="axn.white.pl" tvg-name="AXN White" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL009AXNWhiteHD.png" group-title="Film",AXN White
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33523
+#EXTINF:-1 tvg-id="axn.black.pl" tvg-name="AXN Black" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL006AXNBlackHD.png" group-title="Film",AXN Black
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33526
+#EXTINF:-1 tvg-id="axn.spin.pl" tvg-name="AXN SPIN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL008AXNSPINHD.png" group-title="Film",AXN SPIN
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33524
+#EXTINF:-1 tvg-id="sci.fi.pl" tvg-name="Sci-Fi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL110Sci-FiHD.png" group-title="Film",Sci-Fi
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33422
+#EXTINF:-1 tvg-id="13.ulica.pl" tvg-name="13 Ulica FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL00113UlicaFHD.png" group-title="Film",13 Ulica
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33531
+#EXTINF:-1 tvg-id="13.ulica.pl" tvg-name="13 Ulica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL14913UlicaHD.png" group-title="Film",13 Ulica
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33383
+#EXTINF:-1 tvg-id="tnt.pl" tvg-name="TNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL118TNTFHD.png" group-title="Film",TNT
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33414
+#EXTINF:-1 tvg-id="amc.pl" tvg-name="AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL155AMC.png" group-title="Film",AMC
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33377
+#EXTINF:-1 tvg-id="paramount.pl" tvg-name="Paramount Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL086ParamountChannelFHD.png" group-title="Film",Paramount Channel
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33446
+#EXTINF:-1 tvg-id="paramount.pl" tvg-name="Paramount Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL193ParamountChannelHD.png" group-title="Film",Paramount Channel
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33339
+#EXTINF:-1 tvg-id="cbs.action.pl" tvg-name="CBS Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL022CBSACTION.png" group-title="Film",CBS Action
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33510
+#EXTINF:-1 tvg-id="cbs.action.pl" tvg-name="CBS Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL160CBSAction.png" group-title="Film",CBS Action HD
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33372
+#EXTINF:-1 tvg-id="e.entertainment.pl" tvg-name="E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL122E!Entertainment.png" group-title="Film",E! Entertainment
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33410
+#EXTINF:-1 tvg-id="stopklatka.pl" tvg-name="Stopklatka TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL113StopklatkaTV.png" group-title="Film",Stopklatka TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33419
+#EXTINF:-1 tvg-id="kino.polska.pl" tvg-name="Kino Polska" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL183KINOPOLSKA.png" group-title="Film",Kino Polska
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33349
+#EXTINF:-1 tvg-id="kino.pl" tvg-name="KINO TV" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/fibx.png?15057359211" group-title="Film",KINO TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33464
+#EXTINF:-1 tvg-id="kino.pl" tvg-name="Kino Tv" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/fibx.png?15057359211" group-title="Film",KINO TV HD
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33347
+#EXTINF:-1 tvg-id="epic.drama.pl" tvg-name="Epic Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL040EpicDrama.png" group-title="Film",Epic Drama
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33492
+#EXTINF:-1 tvg-id="romance.pl" tvg-name="Romance TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL067RomanceTV.png" group-title="Film",Romance TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33465
+#EXTINF:-1 tvg-id="polsat.romans.pl" tvg-name="POLSAT ROMANS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL198POLSATROMANSHD.png" group-title="Film",POLSAT ROMANS
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33334
+#EXTINF:-1 tvg-id="tvp.seriale.pl" tvg-name="TVP SERIALE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL141TVPSERIALE.png" group-title="Film",TVP SERIALE
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33391
+#EXTINF:-1 tvg-id="atm.rozrywka.pl" tvg-name="ATM ROZRYWKA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL005ATMROZRYWKATV.png" group-title="Film",ATM ROZRYWKA TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33527
+
+#EXTINF:-1 tvg-id="planete+.pl" tvg-name="MTV Polska" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL087MTV.png" group-title="Muzyka",MTV Polska
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33445
+#EXTINF:-1 tvg-id="mtv.polska.pl" tvg-name="MTV MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL190MTVPolskaHD.png" group-title="Muzyka",MTV MUSIC
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33342
+#EXTINF:-1 tvg-id="mtv.dance.pl" tvg-name="MTV Dance" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL189MTVDanceHD.png" group-title="Muzyka",MTV Dance
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33343
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL144VH1.png" group-title="Muzyka",VH1
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33388
+#EXTINF:-1 tvg-id="ale.kino+.pl" tvg-name="VOX MUSIC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL154VOXMUSICTV.png" group-title="Muzyka",VOX MUSIC TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33378
+#EXTINF:-1 tvg-id="polo.pl" tvg-name="Polo TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL088PoloTVHD.png" group-title="Muzyka",Polo TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33444
+#EXTINF:-1 tvg-id="polo.pl" tvg-name="Polo TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL195PoloTV.png" group-title="Muzyka",Polo TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33337
+#EXTINF:-1 tvg-id="disco.polo.music.pl" tvg-name="DISCO POLO MUSIC" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/disc.png?1" group-title="Muzyka",DISCO POLO MUSIC
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33503
+#EXTINF:-1 tvg-id="polsat.music.pl" tvg-name="Polsat Music" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/plsm.png?15361556951" group-title="Muzyka",Polsat Music
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33335
+#EXTINF:-1 tvg-id="polsat.music.pl" tvg-name="Polsat Music" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/plsm.png?15361556951" group-title="Muzyka",Polsat Music
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33438
+#EXTINF:-1 tvg-id="eska.extra.pl" tvg-name="ESKA TV Extra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL176ESKATVExtra.png" group-title="Muzyka",ESKA TV Extra
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33356
+#EXTINF:-1 tvg-id="power.pl" tvg-name="POWER TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL108POWERTV.png" group-title="Muzyka",POWER TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33424
+#EXTINF:-1 tvg-id="4fun.tv.pl" tvg-name="4Fun TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL0034FunTV.png" group-title="Muzyka",4Fun TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33529
+#EXTINF:-1 tvg-id="4fun.dance.pl" tvg-name="4Fun Dance" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL1504FunDance.png" group-title="Muzyka",4Fun Dance
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33382
+#EXTINF:-1 tvg-id="4fun.gold.hits.pl" tvg-name="4Fun Gold Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL1514FunGoldHits.png" group-title="Muzyka",4Fun Gold Hits
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33381
+#EXTINF:-1 tvg-id="stars.tv.pl" tvg-name="STARS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL074STARSTV.png" group-title="Muzyka",STARS TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33458
+#EXTINF:-1 tvg-id="power.pl" tvg-name="Power TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL203PowerTV.png" group-title="Muzyka",Power TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33329
+#EXTINF:-1 tvg-id="dtx.pl" tvg-name="NUTA TV" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/nut.png?15361533451" group-title="Muzyka",NUTA TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33361
+#EXTINF:-1 tvg-id="kino.polska.muzyka.pl" tvg-name="Kino Polska Muzyka" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL078MUZYKAPOLSKA.png" group-title="Muzyka",Kino Polska Muzyka
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33454
+
+#EXTINF:-1 tvg-id="animal.planet.pl" tvg-name="ANIMAL PLANET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL004ANIMALPLANETHD.png" group-title="Dokument",ANIMAL PLANET
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33528
+#EXTINF:-1 tvg-id="bbc.earth.pl" tvg-name="BBC FIRST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL147BBC.png" group-title="Dokument",BBC
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33385
+#EXTINF:-1 tvg-id="bbc.lifestyle.pl" tvg-name="BBC BRIT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL152BBCBRIT.png" group-title="Dokument",BBC BRIT
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33380
+#EXTINF:-1 tvg-id="" tvg-name="BBC FIRST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL182BBCFIRST.png" group-title="Dokument",BBC FIRST
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33350
+#EXTINF:-1 tvg-id="bbc.earth.pl" tvg-name="BBC Earth " tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL020BBCEarthHD.png" group-title="Dokument",BBC Earth
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33512
+#EXTINF:-1 tvg-id="discovery.pl" tvg-name="Discovery Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL167DiscoveryChannel.png" group-title="Dokument",Discovery Channel
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33365
+#EXTINF:-1 tvg-id="discovery.life.pl" tvg-name="Discovery Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL168DiscoveryLifeHD.png" group-title="Dokument",Discovery Life
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33364
+#EXTINF:-1 tvg-id="discovery.life.pl" tvg-name="Discovery Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL032DiscoveryLifeFHD.png" group-title="Dokument",Discovery Life
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33500
+#EXTINF:-1 tvg-id="discovery.science.pl" tvg-name="Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL033DiscoveryScienceFHD.png" group-title="Dokument",Discovery Science
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33499
+#EXTINF:-1 tvg-id="discovery.historia.pl" tvg-name="Discovery HISTORIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL031DiscoveryHISTORIA.png" group-title="Dokument",Discovery HISTORIA
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33501
+#EXTINF:-1 tvg-id="ksw.pl" tvg-name="ID" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL060InvestigationDiscovery.png" group-title="Dokument",ID
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33472
+#EXTINF:-1 tvg-id="" tvg-name="DTX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL034DiscoveryTurboXtraHD.png" group-title="Dokument",DTX
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33498
+#EXTINF:-1 tvg-id="eurosport.1.pl" tvg-name="MOTOWIZJA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL047Motowizja.png" group-title="Dokument",MOTOWIZJA
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33485
+#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="MOTOWIZJA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL047Motowizja.png" group-title="Sport",MOTOWIZJA
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33459
+#EXTINF:-1 tvg-id="history2.pl" tvg-name="H2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL181H2HD.png" group-title="Dokument",H2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33351
+#EXTINF:-1 tvg-id="history2.pl" tvg-name="H2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL061H2HD.png" group-title="Dokument",H2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33471
+#EXTINF:-1 tvg-id="history.pl" tvg-name="History" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL066HISTORYCHANNELHD.png" group-title="Dokument",History
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33466 
+#EXTINF:-1 tvg-id="national.geographic.pl" tvg-name="NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL079NATGEOFHD.png" group-title="Dokument",NAT GEO
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33453
+#EXTINF:-1 tvg-id="nat.geo.people.pl" tvg-name="NAT GEO PEOPLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL080NATGEOPEOPLEHD.png" group-title="Dokument",NAT GEO PEOPLE
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33452
+#EXTINF:-1 tvg-id="nat.geo.people.pl" tvg-name="Nat Geo People HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL191NatGeoPeopleHD.png" group-title="Dokument",Nat Geo People
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33341
+#EXTINF:-1 tvg-id="national.geographic.wild.pl" tvg-name="NAT GEO Wild" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL081NATGEOWildHD.png" group-title="Dokument",NAT GEO Wild
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33451
+#EXTINF:-1 tvg-id="cbs.europa.pl" tvg-name="CBS EUROPA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL023CBSEUROPAHD.png" group-title="Dokument",CBS EUROPA
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33509
+#EXTINF:-1 tvg-id="cbs.reality.pl" tvg-name="CBS REALITY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL024CBSREALITYHD.png" group-title="Dokument",CBS REALITY
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33508
+#EXTINF:-1 tvg-id="cbs.europa.pl" tvg-name="CBS Europa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL161CBSEuropaHD.png" group-title="Dokument",CBS Europa
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33371
+#EXTINF:-1 tvg-id="cbs.reality.pl" tvg-name="CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL162CBSReality.png" group-title="Dokument",CBS Reality
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33370
+#EXTINF:-1 tvg-id="atm.rozrywka.pl" tvg-name="Active Family" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/fasp.png?15361450991" group-title="Dokument",Active Family
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33376
+#EXTINF:-1 tvg-id="lifetime.pl" tvg-name="Lifetime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL186LifetimeHD.png" group-title="Dokument",Lifetime
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33346
+#EXTINF:-1 tvg-id="lifetime.pl" tvg-name="Lifetime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL070LifetimeHD.png" group-title="Dokument",Lifetime
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33462
+#EXTINF:-1 tvg-id="metro.pl" tvg-name="Metro" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/metr.png?14835300341" group-title="Dokument",Metro
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33345
+#EXTINF:-1 tvg-id="nowa.pl" tvg-name="NOWA TV" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/nowa.png?14785292311" group-title="Dokument",NOWA TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33448
+#EXTINF:-1 tvg-id="fokus.pl" tvg-name="FOKUS TV" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/fotv.png?14462214411" group-title="Dokument",FOKUS TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33476
+#EXTINF:-1 tvg-id="fokus.pl" tvg-name="FOKUS TV" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/fotv.png?14462214411" group-title="Dokument",FOKUS TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33354
+#EXTINF:-1 tvg-id="hgtv.pl" tvg-name="HGTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL065HGTVFHD.png" group-title="Dokument",HGTV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33467
+#EXTINF:-1 tvg-id="polsat.doku.pl" tvg-name="Polsat Doku" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL091PolsatDokuHD.png" group-title="Dokument",Polsat Doku
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33441
+#EXTINF:-1 tvg-id="polsat.doku.pl" tvg-name="Polsat Doku" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL196PolsatDokuFHD.png" group-title="Dokument",Polsat Doku
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33336
+#EXTINF:-1 tvg-id="polsat.viasat.explore.pl" tvg-name="POLSAT Viasat Explore" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL105POLSATViasatExploreFHD.png" group-title="Dokument",POLSAT Viasat Explore
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33427
+#EXTINF:-1 tvg-id="polsat.viasat.history.pl" tvg-name="Polsat Viasat History FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL106PolsatViasatHistoryFHD.png" group-title="Dokument",Polsat Viasat History
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33426
+#EXTINF:-1 tvg-id="polsat.viasat.nature.pl" tvg-name="Polsat Viasat Nature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL107PolsatViasatNatureHD.png" group-title="Dokument",Polsat Viasat Nature
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33425
+#EXTINF:-1 tvg-id="polsat.viasat.explore.pl" tvg-name="Polsat Viasat Explore" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL200PolsatViasatExploreHD.png" group-title="Dokument",Polsat Viasat Explore
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33332
+#EXTINF:-1 tvg-id="polsat.viasat.history.pl" tvg-name="Polsat Viasat History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL201PolsatViasatHistoryHD.png" group-title="Dokument",Polsat Viasat History
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33331
+#EXTINF:-1 tvg-id="polsat.viasat.nature.pl" tvg-name="Polsat Viasat Nature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL202PolsatViasatNature.png" group-title="Dokument",Polsat Viasat Nature
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33330
+#EXTINF:-1 tvg-id="tlc.pl" tvg-name="TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL117TLCFHD.png" group-title="Dokument",TLC
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33415
+#EXTINF:-1 tvg-id="adventure.pl" tvg-name="ADVENTURE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL153ADVENTUREHD.png" group-title="Dokument",ADVENTURE
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33379
+#EXTINF:-1 tvg-id="planete+.pl" tvg-name="Planete+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL194PlaneteHD.png" group-title="Dokument",Planete+
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33338
+#EXTINF:-1 tvg-id="tvp.kultura.pl" tvg-name="TVP KULTURA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL138TVPKULTURAHD.png" group-title="Dokument",TVP KULTURA
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33394
+#EXTINF:-1 tvg-id="tvp.historia.pl" tvg-name="TVP Historia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL136TVPHistoriyHD.png" group-title="Dokument",TVP Historia
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33396
+#EXTINF:-1 tvg-id="zoom.pl" tvg-name="ZOOM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL148ZOOMTV.png" group-title="Dokument",ZOOM TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33384
+#EXTINF:-1 tvg-id="kuchnia+.pl" tvg-name="Kuchnia+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL069KuchniaHD.png" group-title="Dokument",Kuchnia+
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33463
+#EXTINF:-1 tvg-id="food.network.pl" tvg-name="Food Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL158FoodNetworkHD.png" group-title="Dokument",Food Network
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33374
+#EXTINF:-1 tvg-id="metro.pl" tvg-name="Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL071TraceUrban.png" group-title="Dokument",Trace Urban
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33461
+#EXTINF:-1 tvg-id="travel.pl" tvg-name="Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL095TravelChannel.png" group-title="Dokument",Travel Channel
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33437
+
+#EXTINF:-1 tvg-id="wpolsce.pl.pl" tvg-name="wPolsce.pl" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/wppl.png?14815399881" group-title="Info",wPolsce.pl
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33449
+#EXTINF:-1 tvg-id="polsat.news.pl" tvg-name="Polsat News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL096PolsatNewsHD.png" group-title="Info",Polsat News
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33436
+#EXTINF:-1 tvg-id="polsat.news.2.pl" tvg-name="Polsat News 2" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/tvbz.png?1" group-title="Info",Polsat News 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33413
+#EXTINF:-1 tvg-id="tvn.24.pl" tvg-name="TVN 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL127TVN24FHD.png" group-title="Info",TVN 24
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33405
+#EXTINF:-1 tvg-id="tvn.24.biznes.i.swiat.pl" tvg-name="TVN 24 Bis" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/tvnc.png?14919140981" group-title="Info",TVN 24 Bis
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33418
+#EXTINF:-1 tvg-id="tvp.info.pl" tvg-name="TVP Info" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL137TVPInfoFHD.png" group-title="Info",TVP Info
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33395
+#EXTINF:-1 tvg-id="tv.republika.pl" tvg-name="TV Republika" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL125TVRepublikaHD.png" group-title="Info",TV Republika
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33407
+#EXTINF:-1 tvg-id="tvs.pl" tvg-name="TVS" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/tvsi.png?15976535051" group-title="Info",TVS
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33455
+#EXTINF:-1 tvg-id="tvp.polonia.pl" tvg-name="TVP Polonia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL139TVPPoloniaHD.png" group-title="Info",TVP Polonia
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33393
+#EXTINF:-1 tvg-id="disney.xd.pl" tvg-name="Water Planet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL170WaterPlanet.png" group-title="Info",Water Planet
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33362
+#EXTINF:-1 tvg-id="disco.polo.music.pl" tvg-name="TV Trwam" tvg-logo="https://i.imgur.com/k6zdLLu.jpg" group-title="Info",TV Trwam
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33366
+
+#EXTINF:-1 tvg-id="boomerang.pl" tvg-name="Boomerang" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/bomp.png?14534655091" group-title="Dzieci",Boomerang
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33518
+#EXTINF:-1 tvg-id="canal+.sport.2.pl" tvg-name="Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL019Nickelodeon.png" group-title="Dzieci",Nickelodeon
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33513
+#EXTINF:-1 tvg-id="canal+.1.pl" tvg-name="Nicktoons" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/ntpl.png?15361532221" group-title="Dzieci",Nicktoons
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33389
+#EXTINF:-1 tvg-id="nickelodeon.pl" tvg-name="PL204:Nick JR" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/nckj.png?1" group-title="Dzieci",Nick JR
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33328
+#EXTINF:-1 tvg-id="cartoon.network.pl" tvg-name="CARTOON NETWORK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL021CARTOONNETWORKHD.png" group-title="Dzieci",Cartoon Network
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33511
+#EXTINF:-1 tvg-id="cartoon.network.pl" tvg-name="Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL159CartoonNetworkHD.png" group-title="Dzieci",Cartoon Network
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33373
+#EXTINF:-1 tvg-id="da.vinci.pl" tvg-name="Da Vinci Learning" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL028DaVinciLearning.png" group-title="Dzieci",Da Vinci Learning
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33504
+#EXTINF:-1 tvg-id="da.vinci.pl" tvg-name="Da Vinci Da Vinci Learning" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL036DaVinci.png" group-title="Dzieci",Da Vinci
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33496
+#EXTINF:-1 tvg-id="da.vinci.pl" tvg-name="PL165:Da Vinci Learning" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL165DaVinciLearning.png" group-title="Dzieci",Da Vinci Learning
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33367
+#EXTINF:-1 tvg-id="disney.pl" tvg-name="Disney Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL035DisneyChannelFHD.png" group-title="Dzieci",Disney Channel
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33497
+#EXTINF:-1 tvg-id="disney.xd.pl" tvg-name="Disney XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL037DisneyXD.png" group-title="Dzieci",Disney XD
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33495
+#EXTINF:-1 tvg-id="disney.junior.pl" tvg-name="PL169:Disney Junior" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL169DisneyJunior.png" group-title="Dzieci",Disney Junior
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33363
+#EXTINF:-1 tvg-id="domo+.pl" tvg-name="DOMO+ FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL038DOMOFHD.png" group-title="Dzieci",DOMO+
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33494
+#EXTINF:-1 tvg-id="minimini+.pl" tvg-name="MiniMini" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL072MiniMiniHD.png" group-title="Dzieci",Mini Mini
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33460
+#EXTINF:-1 tvg-id="minimini+.pl" tvg-name="PL188:Mini Mini" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL188MiniMiniHD.png" group-title="Dzieci",Mini Mini
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33344
+#EXTINF:-1 tvg-id="polsat.jimjam.pl" tvg-name="Polsat Jim Jam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL093PolsatJimJam.png" group-title="Dzieci",Polsat Jim Jam
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33439
+#EXTINF:-1 tvg-id="teletoon+.pl" tvg-name="Teletoon+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL116TeletoonHD.png" group-title="Dzieci",Teletoon+
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33416
+#EXTINF:-1 tvg-id="tvp.abc.pl" tvg-name="TVP abc" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL135TVPabcHD.png" group-title="Dzieci",TVP abc
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33397
+#EXTINF:-1 tvg-id="polsat.rodzina.pl" tvg-name="Polsat Rodzina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL120PolsatRodzina.png" group-title="Dzieci",Polsat Rodzina
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33412
+#EXTINF:-1 tvg-id="baby.pl" tvg-name="Baby TV" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/baby.png?1" group-title="Dzieci",Baby TV
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33387
+#EXTINF:-1 tvg-id="bbc.cbeebies.pl" tvg-name="BBC CBeebies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL146BBCCBeebies.png" group-title="Dzieci",BBC CBeebies
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33386
+
+#EXTINF:-1 tvg-id="canal+.sport.pl" tvg-name="CANAL+ SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL010CANAL+SPORTFHD.png" group-title="Sport",CANAL+ SPORT
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33522
+#EXTINF:-1 tvg-id="bbc.earth.pl" tvg-name="CANAL+ SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL011CANAL+SPORT2FHD.png" group-title="Sport",CANAL+ SPORT 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33521
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL103Canal+Sport2.png" group-title="Sport",Canal+ Sport 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33429
+#EXTINF:-1 tvg-id="bbc.first.pl" tvg-name="CANAL+ SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL012CANAL+SPORT3FHD.png" group-title="Sport",CANAL+ SPORT 3
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33520
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL013CANAL+SPORT4FHD.png" group-title="Sport",CANAL+ SPORT 4
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33519
+#EXTINF:-1 tvg-id="eleven.sports.2.pl" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL041ELEVENSPORTS2HD.png" group-title="Sport",ELEVEN SPORTS 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33491
+#EXTINF:-1 tvg-id="eleven.sports.3.pl" tvg-name="Eleven Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL042ElevenSports3.png" group-title="Sport",Eleven Sports 3
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33490
+#EXTINF:-1 tvg-id="eleven.sports.4.pl" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL043ELEVENSPORTS4FHD.png" group-title="Sport",ELEVEN SPORTS 4
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33489
+#EXTINF:-1 tvg-id="polsat.sport.news.pl" tvg-name="Polsat Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL102PolsatSportNewsHD.png" group-title="Sport",Polsat Sport News
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33430
+#EXTINF:-1 tvg-id="polsat.sport.premium.2.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL044PolsatSportPremium1.png" group-title="Sport",Polsat Sport Premium 1
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33488
+#EXTINF:-1 tvg-id="polsat.sport.premium.1.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL045PolsatSportPremium2.png" group-title="Sport",Polsat Sport Premium 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33487
+#EXTINF:-1 tvg-id="id.pl" tvg-name="Polsat Sport Premium 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL046PolsatSportPremium3.png" group-title="Sport",Polsat Sport Premium 3
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33486
+#EXTINF:-1 tvg-id="eurosport.2.pl" tvg-name="Polsat Sport Premium 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL048PolsatSportPremium5.png" group-title="Sport",Polsat Sport Premium 5
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33484
+#EXTINF:-1 tvg-id="bbc.brit.pl" tvg-name="Polsat Sport Premium 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL049PolsatSportPremium6.png" group-title="Sport",Polsat Sport Premium 6
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33483
+#EXTINF:-1 tvg-id="polsat.sport.extra.pl" tvg-name=Polsat Sport Extra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL099PolsatSportExtraFHD.png" group-title="Sport",Polsat Sport Extra
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33433
+#EXTINF:-1 tvg-id="polsat.sport.fight.pl" tvg-name="POLSAT Sport Fight" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL100POLSATSportFightFHD.png" group-title="Sport",POLSAT Sport Fight
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33432
+#EXTINF:-1 tvg-id="polsat.sport.pl" tvg-name="Polsat Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL101PolsatSportHD.png" group-title="Sport",Polsat Sport
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33431
+#EXTINF:-1 tvg-id="polsat.sport.fight.pl" tvg-name="Polsat Sport Fight" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL199PolsatSportFightHD.png" group-title="Sport",Polsat Sport Fight
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33333
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="Fightbox" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL050FightboxFHD.png" group-title="Sport",Fightbox
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33482
+#EXTINF:-1 tvg-id="extreme.sports.pl" tvg-name="Extreme Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL030ExtremeSports.png" group-title="Sport",Extreme Sports
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33502
+#EXTINF:-1 tvg-id="red.carpet.pl" tvg-name="EUROSPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL075EUROSPORT1.png" group-title="Sport",EUROSPORT 1
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33457
+#EXTINF:-1 tvg-id="canal+.sport.2.pl" tvg-name="EUROSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL076EUROSPORT2.png" group-title="Sport",EUROSPORT 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33456
+#EXTINF:-1 tvg-id="nsport+.pl" tvg-name="nSport+" tvg-logo="https://d-tm.ppstatic.pl/loga_stacji/nspo.png?14871798211" group-title="Sport",nSport+
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33447
+#EXTINF:-1 tvg-id="" tvg-name="SportKlub" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL112SportKlubPolskaFHD.png" group-title="Sport",SportKlub
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33420
+#EXTINF:-1 tvg-id="tvp.sport.pl" tvg-name="TVP Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL142TVPSportFHD.png" group-title="Sport",TVP Sport
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33390
+#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="Eleven Extra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL111SportklubHD.png" group-title="Sport",Eleven Extra
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33421
+#EXTINF:-1 tvg-id="eleven.sports.1.pl" tvg-name="Eleven Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL172ElevenSports1HD.png" group-title="Sport",Eleven Sports 1
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33360
+#EXTINF:-1 tvg-id="eleven.sports.2.pl" tvg-name="Eleven Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL173ElevenSports2FHD.png" group-title="Sport",Eleven Sports 2
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33359
+#EXTINF:-1 tvg-id="eleven.sports.3.pl" tvg-name="Eleven Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL174ElevenSports3FHD.png" group-title="Sport",Eleven Sports 3
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33358
+#EXTINF:-1 tvg-id="eleven.sports.4.pl" tvg-name="Eleven Sports 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL175ElevenSports4HD.png" group-title="Sport",Eleven Sports 4
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33357
+#EXTINF:-1 tvg-id="golf.pl" tvg-name="Golf Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL180GolfChannelHD.png" group-title="Sport",Golf Channel HD
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33352
+#EXTINF:-1 tvg-id="nowa.pl" tvg-name="KSW Fight  PPV (Live Matches  Only)" tvg-logo="https://www.kswmma.com/storage/2019-12-04/1575490959-466KSW_czerwone_450.png" group-title="Sport",KSW Fight  PPV (Live Matches  Only)
+http://a1xin.worldhell.club:8880/HELM1186/36mvfk62/33340
+
+#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/k6zdLLu.jpg" tvg-url="" group-title="Lokalne",TV Trwam
+https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+
+#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="TVP 3 Bia³ystok" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zPSpvss.jpg" tvg-url="" group-title="Lokalne",TVP 3 Bia³ystok
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+
+#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" tvg-name="TVP 3 Bydgoszcz" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" tvg-url="" group-title="Lokalne",TVP 3 Bydgoszcz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+
+#EXTINF:-1 tvg-id="TVP3Gdansk.pl" tvg-name="TVP 3 Gdañsk" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" tvg-url="" group-title="Lokalne",TVP 3 Gdañsk
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+
+#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl" tvg-name="TVP 3 Gorzów Wielkopolski" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" tvg-url="" group-title="Lokalne",TVP 3 Gorzów Wielkopolski
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+
+#EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-name="TVP 3 Katowice" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/burRKHa.jpg" tvg-url="" group-title="",TVP 3 Katowice
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+
+#EXTINF:-1 tvg-id="TVP3Kielce.pl" tvg-name="TVP 3 Kielce" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/YcQxM94.jpg" tvg-url="" group-title="Lokalne",TVP 3 Kielce
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+
+#EXTINF:-1 tvg-id="TVP3Krakow.pl" tvg-name="TVP 3 Kraków" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" tvg-url="" group-title="Lokalne",TVP 3 Kraków
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+
+#EXTINF:-1 tvg-id="TVP3Lublin.pl" tvg-name="TVP 3 Lublin" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" tvg-url="" group-title="Lokalne",TVP 3 Lublin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+
+#EXTINF:-1 tvg-id="TVP3Olsztyn.pl" tvg-name="TVP 3 Olsztyn" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" tvg-url="" group-title="Lokalne",TVP 3 Olsztyn
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+
+#EXTINF:-1 tvg-id="TVP3Opole.pl" tvg-name="TVP 3 Opole" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" tvg-url="" group-title="Lokalne",TVP 3 Opole
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+
+#EXTINF:-1 tvg-id="TVP3Poznan.pl" tvg-name="TVP 3 Poznañ" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" tvg-url="" group-title="Lokalne",TVP 3 Poznañ
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+
+#EXTINF:-1 tvg-id="TVP3Rzeszow.pl" tvg-name="TVP 3 Rzeszów" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" tvg-url="" group-title="Lokalne",TVP 3 Rzeszów
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+
+#EXTINF:-1 tvg-id="TVP3Szczecin.pl" tvg-name="TVP 3 Szczecin" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" tvg-url="" group-title="Lokalne",TVP 3 Szczecin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="TVP 3 Warszawa" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" tvg-url="" group-title="Lokalne",TVP 3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+
+#EXTINF:-1 tvg-id="TVP3Wroclaw.pl" tvg-name="TVP 3 Wroc³aw" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/0em2QIh.jpg" tvg-url="" group-title="Lokalne",TVP 3 Wroc³aw
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+
+#EXTINF:-1 tvg-id="TVP3Lodz.pl" tvg-name="TVP 3 £ódŸ" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" tvg-url="" group-title="Lokalne",TVP 3 £ódŸ
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/idt6Zz3.jpg" tvg-url="" group-title="Lokalne",TVP Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+
+#EXTINF:-1 tvg-id="TVPParlament.pl" tvg-name="TVP Parlament" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" tvg-url="" group-title="Lokalne",TVP Parlament
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
+
+#EXTINF:-1 tvg-id="TVTTelewizjaregionalnaRybnik.pl" tvg-name="TVT Telewizja regionalna (Rybnik)" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/pJKndl0.jpg" tvg-url="" group-title="Lokalne",TVT Telewizja regionalna (Rybnik)
+http://176.107.129.219/media/tvt/index.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaTorun.pl" tvg-name="Telewizja Toruñ" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/GdbkqCM.png" tvg-url="" group-title="Lokalne",Telewizja Toruñ (1080p)
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+
+#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-name="TVT Zgorzelec" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" tvg-url="" group-title="Lokalne",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+
+#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ec8DxWx.jpg" tvg-url="" group-title="Lokalne",Twoja TV
+http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaKujawy.pl" tvg-name="Telewizja Kujawy" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/tgLWe9o.jpg" tvg-url="" group-title="Lokalne",Telewizja Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaPograniczeGlubczyce.pl" tvg-name="Telewizja Pogranicze (G³ubczyce)" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ilGvIug.jpeg" tvg-url="" group-title="Lokalne",Telewizja Pogranicze (G³ubczyce) (720p)
+http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaRepublika.pl" tvg-name="Telewizja Republika " tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/VaiHvZ3.jpg" tvg-url="" group-title="Lokalne",Telewizja Republika"
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+
+#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ImFmWk5.png" tvg-url="" group-title="Lokalne",Telewizja Republika (1080p)
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+
+#EXTINF:-1 tvg-id="TRUSOTVElblag.pl" tvg-name="TRUSO.TV (Elbl¹g)" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Ic07Biz.jpg" tvg-url="" group-title="Lokalne",TRUSO.TV (Elbl¹g) (576p)
+http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRegionalna.pl" tvg-name="TV Regionalna" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/l8tRJVW.jpg" tvg-url="" group-title="Lokalne",TV Regionalna 
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="WTK PL" tvg-name="dlaCiebieTV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/N318K6a.jpg" tvg-url="" group-title="Lokalne",dlaCiebieTV (720p)
+http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WTK PL" tvg-name="Echo24" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/a5DX4nh.jpg" tvg-url="" group-title="Lokalne",Echo24 (720p)
+https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="EzoTV.pl" tvg-name="Ezo TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/hJAoLIq.png" tvg-url="" group-title="Lokalne",Ezo TV (576p)
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SferaTV.pl" tvg-name="Sfera TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/kgE2maL.jpg" tvg-url="" group-title="Lokalne",Sfera TV (480p)
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+
